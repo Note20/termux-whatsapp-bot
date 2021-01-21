@@ -27,9 +27,9 @@ const instagram = 'http://www.instagram.com/mrf.zvx';
 const aktif = '08:00 - 22:00';
 const vcard = 'BEGIN:VCARD\n'
   + 'VERSION:3.0\n'
-  + 'FN:Mrf.zvx\n' // Nama kamu
-  + 'ORG:Lexa;\n' // Nama bot
-  + 'TEL;type=CELL;type=VOICE;waid=6282223014661:+62 822-2301-4661\n' //Nomor whatsapp kamu
+  + 'FN:Mrf.zvx\n' // 'Firzan023'
+  + 'ORG:Lexa;\n' // 'NOTE'
+  + 'TEL;type=CELL;type=VOICE;waid=6282223014661:+62 822-2301-4661\n' //'083132107694'
   + 'END:VCARD'
 //
 const
